@@ -1,0 +1,3 @@
+id	pocvalidated	type	gdbtype	file	keywords	command
+CVE-202222	1	infinit-loop	infinit-loops	cflow.c	Criticals	no
+CVE-9999	1	infinit-loop	infinit-loop2	ccf.c	Criticals	yes
